@@ -7,10 +7,10 @@ An Open Web App for the game DAMATH. Won 1st place on the Philippines' Firefox O
 
 Team COSSine 
 ------
-1. Chimmy Arian Hilis | <chimmyarianhilis@gmail.com>
-2. Hanz Arnante | <hanzarnante@gmail.com>
-3. Raven John Lagrimas | <rjlagrimas08@gmail.com>
-4. Joseph Conrad Almonte | <conrad0817@gmail.com>
+1. Chimmy Arian Hilis
+2. Hanz Arnante
+3. Raven John Lagrimas
+4. Joseph Conrad Almonte
 
 All of them are UPLB Computer Science Society (UPLB COSS) resident members.
 
